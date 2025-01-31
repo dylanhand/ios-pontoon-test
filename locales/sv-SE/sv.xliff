@@ -7,12 +7,10 @@
     <body>
       <trans-unit id="about" xml:space="preserve">
         <source>About</source>
-        <target></target>
         <note/>
       </trans-unit>
       <trans-unit id="add" xml:space="preserve">
         <source>Add</source>
-        <target>Add</target>
         <note/>
       </trans-unit>
       <trans-unit id="addNewKeyboard" xml:space="preserve">
