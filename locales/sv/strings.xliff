@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="HostingApp/Base.lproj/Localizable.strings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="about" xml:space="preserve">
         <source>About</source>
+        <target>Om</target>
         <note/>
       </trans-unit>
       <trans-unit id="add" xml:space="preserve">
         <source>Add</source>
+        <target>Lägg till</target>
         <note/>
       </trans-unit>
       <trans-unit id="addNewKeyboard" xml:space="preserve">
@@ -200,7 +202,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="HostingApp/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="sv">
+  <file original="HostingApp/en.lproj/InfoPlist.strings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
     </header>
@@ -215,7 +217,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="HostingApp/Settings.bundle/en.lproj/Root.strings" datatype="plaintext" source-language="en" target-language="sv">
+  <file original="HostingApp/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
     </header>
@@ -238,7 +240,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Keyboard/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="sv">
+  <file original="Keyboard/en.lproj/InfoPlist.strings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
     </header>
@@ -296,7 +298,6 @@
       <trans-unit id="keyboardNotSupported" xml:space="preserve">
         <source>The %@ keyboard is currently not supported on this device.
 You can submit a request for support with one of the following options:</source>
-        <target/>
         <note/>
       </trans-unit>
     </body>
